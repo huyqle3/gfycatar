@@ -28,3 +28,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Media
+*.mp4
+*.ogg
+*.mp4.meta
+*.ogg.meta
