@@ -54,7 +54,7 @@ public class GestureAction : MonoBehaviour
             manipulationPreviousPosition = position;
 
             // 4.a: Increment this transform's position by the moveVector.
-            transform.position += moveVector * 5;
+            transform.position += moveVector * 10;
         }
     }
 }
