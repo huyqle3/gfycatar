@@ -84,7 +84,8 @@ namespace Academy.HoloToolkit.Unity
         public void ResetGestureRecognizers()
         {
             // Default to the navigation gestures.
-            Transition(NavigationRecognizer);
+            // Transition(NavigationRecognizer);
+            Transition(ManipulationRecognizer);
         }
 
         /// <summary>
