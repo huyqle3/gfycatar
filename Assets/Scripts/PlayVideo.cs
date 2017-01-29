@@ -10,6 +10,7 @@ public class PlayVideo : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         GetComponent<RawImage>().texture = movie as MovieTexture;
+        movie.loop = true;
         movie.Play();
 	}
 	
