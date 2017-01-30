@@ -50,6 +50,7 @@ public class Placeable : MonoBehaviour
     /// Indicates if the object is in the process of being placed.
     /// </summary>
     public bool IsPlacing { get; private set; }
+    // public bool IsPlacing { get; set; }
 
     // The most recent distance to the surface.  This is used to 
     // locate the object when the user's gaze does not intersect
@@ -89,6 +90,7 @@ public class Placeable : MonoBehaviour
 
     // The location at which the object will be placed.
     private Vector3 targetPosition;
+    // public Vector3 targetPosition;
 
     /// <summary>
     /// Called when the GameObject is created.
