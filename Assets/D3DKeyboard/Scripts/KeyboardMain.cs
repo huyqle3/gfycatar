@@ -123,7 +123,7 @@ public class KeyboardMain : MonoBehaviour {
     //Once selected it shows or hides the keyboard. Additional scripts can be added here to submit the message.
     public void OnDone()
     {
-        GameObject gifHacks = search.transform.Find("gifhacks").gameObject;
+        GameObject gifHacks = search.transform.Find("TitleGif").gameObject;
         gifHacks.SetActive(true);
         GameObject mainCamera = GameObject.Find("Main Camera");
 
