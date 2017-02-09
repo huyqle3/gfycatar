@@ -1,6 +1,8 @@
 # Gfytti
 
-Gfytti allows you to use gifs on the HoloLens. It's a very scrappy demo with a lot of filler scenes at the moment. Watch the [video demo](https://www.youtube.com/watch?v=UKMM6AHuf8A).
+Gfytti allows you to use gifs on the HoloLens, place them on the walls, and watch them.
+It's a very scrappy hackathon project with a lot of filler scenes at the moment.
+Watch the [video demo](https://www.youtube.com/watch?v=UKMM6AHuf8A).
 
 ![](http://thumbs.gfycat.com/AdmirableElectricIberianmole-size_restricted.gif)
 
@@ -29,7 +31,7 @@ Every time the user opens up Gfytti, the app scans the user's current room and l
 Once the room is scanned, the trending gifs are dynamically put on the walls.
 They're never put in the same place each time you run the app.
 
-We wanted gfycat to be more social too, so we built a geolocation page. I
+We wanted gfycat to be more social too, so we built a geolocation page.
 
 A user can search for a gif and leave it for everyone else.
 He can put a gfycat on the wall, so that other people who walk by can see his great gfycat.
