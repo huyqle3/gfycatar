@@ -2,19 +2,21 @@
 
 Gfytti allows you to use gifs on the HoloLens. It's a very scrappy demo with a lot of filler scenes at the moment. Watch the [video demo](https://www.youtube.com/watch?v=UKMM6AHuf8A).
 
-![](https://gfycat.com/AdmirableElectricIberianmole)
+![](http://thumbs.gfycat.com/AdmirableElectricIberianmole-size_restricted.gif)
 
 # The Pitch
 
-We've seen gfycat on our computers. We've seen gfycat on our mobile devices (show mobile device).
+We've seen gfycat on our computers. We've seen gfycat on our mobile devices.
 And we now we'll use gfycat on our untethered mixed reality devices!
 
 Our team is called Gfytti! We bring a new level of immersion and interaction to gifs on the web.
 Instead of just watching gifs. Instead of just visting a gfycat link, Gfytti allows the user
 to interact with the gfycat. Gfycats become a part of your environment.
 
-We had two main objectives for Giffitti: interaction and immersion. We wanted to do more than
-just view and make gifs.
+We had two main objectives for Gfytti: interaction and immersion.
+
+We wanted to do more than just view and make gifs.
+
 There are two main menus to Gfytti: Trending and GeoLocation.
 
 A user is welcomed by the gif of the day.
@@ -29,8 +31,8 @@ They're never put in the same place each time you run the app.
 
 We wanted gfycat to be more social too, so we built a geolocation page. I
 
-Mike can search for a gif and leave it for everyone else.
-He can put a gifhack gfycat on the Pear wall, so that other people who walk by can see his great gfycat.
+A user can search for a gif and leave it for everyone else.
+He can put a gfycat on the wall, so that other people who walk by can see his great gfycat.
 
 There's social interaction with these gfycats because
 they become a part of your environment and can be shared with others.
